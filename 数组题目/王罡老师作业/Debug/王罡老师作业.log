@@ -1,0 +1,15 @@
+﻿  源.cpp
+C:\Users\admin\Desktop\数组题目\王罡老师作业\源.cpp(11,2): error C3861: “rand_array”: 找不到标识符
+C:\Users\admin\Desktop\数组题目\王罡老师作业\源.cpp(13,2): error C3861: “rand_array”: 找不到标识符
+C:\Users\admin\Desktop\数组题目\王罡老师作业\源.cpp(15,2): error C3861: “sort”: 找不到标识符
+C:\Users\admin\Desktop\数组题目\王罡老师作业\源.cpp(17,2): error C3861: “sort”: 找不到标识符
+C:\Users\admin\Desktop\数组题目\王罡老师作业\源.cpp(20,2): error C3861: “merge”: 找不到标识符
+  源1.cpp
+C:\Users\admin\Desktop\数组题目\王罡老师作业\源.cpp(21,2): error C3861: “output”: 找不到标识符
+C:\Users\admin\Desktop\数组题目\王罡老师作业\源1.cpp(5,19): error C3861: “rand”: 找不到标识符
+C:\Users\admin\Desktop\数组题目\王罡老师作业\源1.cpp(6,2): error C3861: “output”: 找不到标识符
+C:\Users\admin\Desktop\数组题目\王罡老师作业\源1.cpp(13,3): error C3861: “printf”: 找不到标识符
+  源2.cpp
+C:\Users\admin\Desktop\数组题目\王罡老师作业\源1.cpp(14,2): error C3861: “printf”: 找不到标识符
+  正在生成代码...
+C:\Users\admin\Desktop\数组题目\王罡老师作业\源2.cpp(12,6): warning C4101: “n”: 未引用的局部变量
